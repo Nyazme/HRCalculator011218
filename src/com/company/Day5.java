@@ -25,7 +25,11 @@ public class Day5 {
         System.out.println("Please enter First Name:");
         System.out.println("Please enter Last Name:");
         System.out.println("Please enter Current Age:");
-                ;
+
+        String [] Current Age = sc . nextLine();
+        String [] Current Age + 1 = sc.nextLine ();
+        String [] Current Age + 5 = sc.nextLine ();
+        String [] Current Age + 10 = sc.nextLine();
         };
 
 
