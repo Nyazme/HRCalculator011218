@@ -21,13 +21,15 @@ public class Day5 {
 
         System.out.println("Hello!");
         System.out.println("Instructions");
-              String [] questions = {"Please enter First Name:",
-                                     "Please enter Last Name:",
-                "Please enter Current Age:",
-
+        Scanner sc = new Scanner (System.in);
+        System.out.println("Please enter First Name:");
+        System.out.println("Please enter Last Name:");
+        System.out.println("Please enter Current Age:");
+                ;
         };
 
+
         }
-    }
+
 
 
